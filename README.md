@@ -1,6 +1,6 @@
 # Fuzzy find and open most recently used files in vis
 
-Use [fzy](https://github.com/jhawthorn/fzy.git) to open most recently used files in [vis](https://github.com/martanne/vis).
+Use [fzy](https://github.com/jhawthorn/fzy.git) to open most recently used files in [vis](https://github.com/martanne/vis). Superseded by [vis-filepal](https://github.com/jorbakk/vis-filepal).
 
 ## Usage
 
